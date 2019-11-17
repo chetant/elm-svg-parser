@@ -1,0 +1,12 @@
+
+
+digraph {
+    a [id=a];
+    b [id=b];
+    c [id=c];
+    d [id=d];
+    
+    a -> b;
+    b -> c;
+    d -> b;
+}
